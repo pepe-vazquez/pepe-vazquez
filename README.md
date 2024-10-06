@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pepe-vazquez
-- 👀 I’m interested in parametric design, architecture, Digital fabrication, BIM
+- 👀 I’m interested in parametric design, digital fabrication, BIM, ...
 - 🌱 I’m currently learning about everything
 - 💞️ Next January I will start my participation in the next edition of fabacademy 2025 
 - 📫 jose.vazquez@udc.es
